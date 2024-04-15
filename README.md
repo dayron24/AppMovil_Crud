@@ -1,11 +1,11 @@
 # Información del Proyecto
 
-Este es un proyecto móvil desarrollado con Flutter para el frontend y Golang como el backend.
+Este es un proyecto móvil desarrollado con Flutter para el frontend y Golang para el backend.
 
 ## Tecnologías Utilizadas
 
 - **Frontend:** Flutter
-- **Backend:** Golang
+- **Backend:** Golang con Gin
 - **Base de Datos:** MySQL (Plan gratuito en Railway)
 
 ## Configuración y Ejecución
