@@ -12,7 +12,7 @@ Este es un proyecto móvil desarrollado con Flutter para el frontend y Golang pa
 
 Para la ejecución del código Flutter, se recomienda usar **Android Studio**.
 
-Para ejecutar el backend, puedes usar cualquier terminal y ejecutar el siguiente comando:
+Para ejecutar el backend, puedes usar cualquier terminal con Golang instalado y ejecutar el siguiente comando:
 
 go run main.go
 
